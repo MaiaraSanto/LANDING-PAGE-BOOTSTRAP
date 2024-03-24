@@ -5,7 +5,7 @@
 
 #
 
-### <div align="center"> [Acesse aqui](https://landingpage-boot.netlify.app/)
+### <div align="center"> [Acesse aqui](https://landingpage-boot.netlify.app/ target="_blank")
 
 <img src="./boot.JPG" align="center" height="400em" width="100%"> 
 
