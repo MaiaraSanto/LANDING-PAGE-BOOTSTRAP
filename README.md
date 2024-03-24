@@ -46,5 +46,5 @@ Verifique se a página funciona bem em diferentes tipos de dispositivos, como ce
 
 
 # Watch more
-For more videos visit to my YouTube channel. [SA7MAN](https://www.youtube.com/c/SA7MAN)
+For more videos visit to my YouTube channel. [SA7MAN](https://youtu.be/w2zix0oYyE8?si=yqZ3V8OlIIyj7Zgr)
 
