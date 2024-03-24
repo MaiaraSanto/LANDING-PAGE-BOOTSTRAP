@@ -8,6 +8,7 @@
 ### <div align="center" target="_blank"> [Acesse aqui](https://landingpage-boot.netlify.app/)
 
 <img src="./boot.JPG" align="center" height="400em" width="100%"> 
+</div>
 
 #
 
